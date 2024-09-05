@@ -9,7 +9,7 @@ body {
 .container{
     width: 100%;
     height: 100vh;
-    background-image: mountain(2).jpg ;
+    background-image: url("../mountain(2).jpg") ;
     background-position: center;
     background-size: cover;
     
